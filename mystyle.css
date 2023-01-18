@@ -1,0 +1,28 @@
+
+body{
+    background-color:#37505C;
+    color: orange;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+#Summary{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color:  black;
+   
+}
